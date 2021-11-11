@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Letras</string>
+    <string name="button_letra_original">Original</string>
+    <string name="button_letra_traducao">Tradução</string>
+</resources>
