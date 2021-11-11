@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             buscarMusica()
         }
     }
-
+//teste
     fun buscarMusica(){
         val textViewTituloMusica = findViewById<TextView>(R.id.musica)
         textViewTituloMusica.text = TITULO_MUSICA
